@@ -17,13 +17,22 @@
   <title>Safe Hands</title>
 </head>
 <body>
-    <div class="topnav" id="myTopnav">
+    <!-- Top Navigation Menu -->
+<div class="topnav">
+    <img src="/assets/images/Safehands Thumbnail logo.webp" alt="Thumbnail Logo">
+    <!-- Navigation links (hidden by default) -->
+    <div id="myLinks">
         <a href="index.html" class="active">Home</a>
         <a href="the-team.html">Contact Us</a>
         <a href="security.html">Security</a>
         <a href="supplies.html">Supplies</a>
         <a href="sign-in.html">Sign Up</a>
-       </div>
+    </div>
+    <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
     
              
             <section id="login">
@@ -62,15 +71,6 @@
 </footer>
 
 
-<script>
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "topnav") {
-        x.className += " responsive";
-      } else {
-        x.className = "topnav";
-      }
-    }
-    </script>
+<script src="/assets/Javascript/scripts.js"></script>
 </body>
 </html>
