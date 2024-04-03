@@ -61,7 +61,7 @@ section {
 	object-fit: fill;
 	pointer-events: none;
 	overflow: hidden;
-	z-index: ;
+	z-index: -1;
 }
 
 .van {
@@ -179,6 +179,7 @@ section {
 }
 footer {
 	background-color: #3b3838;
+	clear: both;
 }
 .banner-social-icons {
     vertical-align: top;
