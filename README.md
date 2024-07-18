@@ -1,5 +1,5 @@
 # SAFE HANDS SECURITY
-The Live link can be found here - [Safe Hands Security & Supplies](https://rickylambert87.github.io/Safe-Hands/) 
+The Live link can be found here - [Safe Hands Security & Supplies](https://TechsAvey2024.github.io/Safe-Hands/) 
 
 ![Header](/assets/images/safehands.png)
 
